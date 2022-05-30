@@ -1,1 +1,3 @@
-
+<Version: 0.9.1>
+NEW - Auto-Updater hinzugefügt
+<End of Version>
